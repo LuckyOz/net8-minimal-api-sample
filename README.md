@@ -1,0 +1,1 @@
+# net8-minimal-api-sample
